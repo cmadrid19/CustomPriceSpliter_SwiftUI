@@ -52,6 +52,7 @@
 		9E8677672598031A004E7956 /* BillSpliter */ = {
 			isa = PBXGroup;
 			children = (
+				9E86777825980329004E7956 /* View */,
 				9E8677682598031A004E7956 /* BillSpliterApp.swift */,
 				9E86776A2598031A004E7956 /* ContentView.swift */,
 				9E86776C2598031C004E7956 /* Assets.xcassets */,
@@ -67,6 +68,13 @@
 				9E86776F2598031C004E7956 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		9E86777825980329004E7956 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -269,6 +277,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"BillSpliter/Preview Content\"";
+				DEVELOPMENT_TEAM = 4YGTHSUB42;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = BillSpliter/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -290,6 +299,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"BillSpliter/Preview Content\"";
+				DEVELOPMENT_TEAM = 4YGTHSUB42;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = BillSpliter/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
